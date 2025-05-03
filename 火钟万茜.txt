@@ -1,0 +1,9 @@
+玛薇卡 attack(0.1),e
+
+钟离 attack(0.1),e(hold),attack(0.2),keypress(Q)
+
+枫原万叶 e(hold),attack(0.1),wait(0.2),q
+
+茜特菈莉 attack(0.1),e,q,wait(0.2),e
+
+玛薇卡 attack(0.1),q,q
